@@ -1,0 +1,9 @@
+.header{
+    padding: 1.3rem 2rem;
+    border-bottom: 2px solid;
+}
+
+.header h1{
+    font-weight: 900;
+    display: inline-block;
+}
