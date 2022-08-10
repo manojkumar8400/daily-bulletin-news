@@ -24,7 +24,7 @@
 .article-author span:nth-child(2) {
     font-size: 1.1rem;
     font-weight: 500;
-    color: gray;
+    color: var(--gray-900);
 }
 
 .article-img {

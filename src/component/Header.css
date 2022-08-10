@@ -1,9 +1,14 @@
-.header{
+.header {
     padding: 1.3rem 2rem;
     border-bottom: 2px solid;
+    position: sticky;
+    top: 0%;
+    background-color: var(--white);
+    z-index: 1;
 }
 
-.header h1{
+.header h1 {
     font-weight: 900;
     display: inline-block;
+    color: var(--black-900);
 }

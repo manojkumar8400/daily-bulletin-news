@@ -8,7 +8,7 @@ import { Header } from './component/Header';
 function App() {
   return (
     <div className="App">
-      < Header/>
+      < Header />
       <Routes>
         <Route path='/' element={< Home />} />
         <Route path='/article/:articleId' element={< Article />} />
